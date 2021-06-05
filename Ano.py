@@ -1,0 +1,6 @@
+print("this is ano")
+print("this is ano")
+print("this is ano")
+print("this is ano")
+print("this is ano")
+print("this is ano")

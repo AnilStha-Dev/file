@@ -1,0 +1,8 @@
+print("ronaldo")
+print("cristiano")
+print("ronaldo")
+print("cristiano")
+print("ronaldo")
+print("cristiano")
+print("ronaldo")
+print("cristiano")
